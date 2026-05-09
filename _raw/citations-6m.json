@@ -1,0 +1,1810 @@
+{
+  "cited_by": {
+    "badlogic/pi-mono": [
+      "nexu-io/open-design",
+      "openclaw/openclaw",
+      "vercel-labs/skills"
+    ],
+    "apps/clawdinator": [
+      "openclaw/openclaw"
+    ],
+    "apps/github-actions": [
+      "openclaw/openclaw",
+      "sickn33/antigravity-awesome-skills"
+    ],
+    "openclaw/nix-openclaw": [
+      "openclaw/openclaw"
+    ],
+    "apps/google-labs-jules": [
+      "openclaw/openclaw"
+    ],
+    "yeachan-heo/clawhip": [
+      "ultraworkers/claw-code"
+    ],
+    "code-yeongyu/oh-my-openagent": [
+      "ultraworkers/claw-code"
+    ],
+    "yeachan-heo/oh-my-claudecode": [
+      "ultraworkers/claw-code"
+    ],
+    "yeachan-heo/oh-my-codex": [
+      "ultraworkers/claw-code",
+      "yeachan-heo/oh-my-claudecode"
+    ],
+    "marketplace/ecc-tools": [
+      "affaan-m/everything-claude-code"
+    ],
+    "saigonxiii/evc": [
+      "affaan-m/everything-claude-code"
+    ],
+    "affaan-m/agentshield": [
+      "affaan-m/everything-claude-code"
+    ],
+    "agricidaniel/claude-cybersecurity": [
+      "affaan-m/everything-claude-code"
+    ],
+    "agricidaniel/claude-ads": [
+      "affaan-m/everything-claude-code"
+    ],
+    "agricidaniel/claude-seo": [
+      "affaan-m/everything-claude-code",
+      "sickn33/antigravity-awesome-skills"
+    ],
+    "apps/skill-creator": [
+      "affaan-m/everything-claude-code"
+    ],
+    "anthropics/skills": [
+      "affaan-m/everything-claude-code",
+      "agentskills/agentskills",
+      "hkuds/openharness",
+      "leey21/awesome-ai-research-writing",
+      "othmanadi/planning-with-files",
+      "pbakaus/impeccable",
+      "sickn33/antigravity-awesome-skills"
+    ],
+    "multica-ai/multica": [
+      "forrestchang/andrej-karpathy-skills",
+      "nexu-io/open-design"
+    ],
+    "forrestchang/andrej-karpathy-skills": [
+      "garrytan/gstack"
+    ],
+    "garrytan/gbrain": [
+      "garrytan/gstack"
+    ],
+    "you/app": [
+      "garrytan/gstack"
+    ],
+    "oven-sh/bun": [
+      "garrytan/gstack"
+    ],
+    "openclaw/openclaw": [
+      "aiming-lab/autoresearchclaw",
+      "alexsjones/llmfit",
+      "garrytan/gstack",
+      "hesamsheikh/awesome-openclaw-usecases",
+      "hkuds/nanobot",
+      "mksglu/context-mode",
+      "nearai/ironclaw",
+      "qwibitai/nanoclaw",
+      "thu-maic/openmaic"
+    ],
+    "browser-use/browser-harness-js": [
+      "garrytan/gstack"
+    ],
+    "miolini/autoresearch-macos": [
+      "karpathy/autoresearch"
+    ],
+    "andyluo7/autoresearch": [
+      "karpathy/autoresearch"
+    ],
+    "jsegov/autoresearch-win-rtx": [
+      "karpathy/autoresearch"
+    ],
+    "trevin-creator/autoresearch-mlx": [
+      "karpathy/autoresearch"
+    ],
+    "karpathy/nanochat": [
+      "karpathy/autoresearch"
+    ],
+    "voltagent/voltagent": [
+      "voltagent/awesome-design-md",
+      "voltagent/awesome-openclaw-skills"
+    ],
+    "user-attachments/assets": [
+      "anionex/banana-slides",
+      "different-ai/openwork",
+      "hesamsheikh/awesome-openclaw-usecases",
+      "muratcankoylan/agent-skills-for-context-engineering",
+      "nikopueringer/corridorkey",
+      "paperclipai/paperclip",
+      "pranshuparmar/witr",
+      "thu-maic/openmaic",
+      "voltagent/awesome-design-md",
+      "voltagent/awesome-openclaw-skills",
+      "waooai/waoowaoo",
+      "webadderallorg/recordly",
+      "zarazhangrui/frontend-slides"
+    ],
+    "mattpocock/course-video-manager": [
+      "mattpocock/skills"
+    ],
+    "gsxdsm/awesome-paperclip": [
+      "paperclipai/paperclip"
+    ],
+    "rokicool/gsd-opencode": [
+      "gsd-build/get-shit-done"
+    ],
+    "camel-ai/oasis": [
+      "666ghj/mirofish"
+    ],
+    "juliusbrussee/revu-swift": [
+      "juliusbrussee/caveman"
+    ],
+    "juliusbrussee/cavemem": [
+      "juliusbrussee/caveman"
+    ],
+    "juliusbrussee/cavekit": [
+      "juliusbrussee/caveman"
+    ],
+    "can1357/oh-my-pi": [
+      "code-yeongyu/oh-my-openagent"
+    ],
+    "voltagent/awesome-ai-agent-papers": [
+      "voltagent/awesome-openclaw-skills"
+    ],
+    "voltagent/awesome-codex-subagents": [
+      "voltagent/awesome-openclaw-skills"
+    ],
+    "openclaw/skills": [
+      "sickn33/antigravity-awesome-skills",
+      "voltagent/awesome-openclaw-skills"
+    ],
+    "voltagent/awesome-clawdbot-skills": [
+      "voltagent/awesome-openclaw-skills"
+    ],
+    "clawdbot/skills": [
+      "voltagent/awesome-openclaw-skills"
+    ],
+    "snyk/agent-scan": [
+      "voltagent/awesome-openclaw-skills"
+    ],
+    "voltagent/awesome-claude-code-subagents": [
+      "voltagent/awesome-openclaw-skills"
+    ],
+    "voltagent/awesome-agent-skills": [
+      "sickn33/antigravity-awesome-skills",
+      "voltagent/awesome-openclaw-skills"
+    ],
+    "chenglou/text-layout": [
+      "chenglou/pretext"
+    ],
+    "karpathy/nanogpt": [
+      "safishamsi/graphify"
+    ],
+    "googleworkspace/cli": [
+      "safishamsi/graphify"
+    ],
+    "google-gemini/gemini-cli": [
+      "jcodesmore/ai-website-cloner-template",
+      "mvanhorn/last30days-skill",
+      "nexu-io/open-design",
+      "pbakaus/impeccable",
+      "santifer/career-ops",
+      "sickn33/antigravity-awesome-skills",
+      "yeachan-heo/oh-my-claudecode"
+    ],
+    "santifer/cv-santiago": [
+      "santifer/career-ops"
+    ],
+    "gokapso/agent-skills": [
+      "sickn33/antigravity-awesome-skills"
+    ],
+    "lambdatest/agent-skills": [
+      "sickn33/antigravity-awesome-skills"
+    ],
+    "guanyang/antigravity-skills": [
+      "sickn33/antigravity-awesome-skills"
+    ],
+    "ibelick/ui-skills": [
+      "sickn33/antigravity-awesome-skills"
+    ],
+    "hyhmrright/brooks-lint": [
+      "sickn33/antigravity-awesome-skills"
+    ],
+    "avdlee/swiftui-agent-skill": [
+      "sickn33/antigravity-awesome-skills"
+    ],
+    "affaan-m/everything-claude-code": [
+      "sickn33/antigravity-awesome-skills",
+      "yeachan-heo/oh-my-claudecode"
+    ],
+    "wrsmith108/varlock-claude-skill": [
+      "sickn33/antigravity-awesome-skills"
+    ],
+    "sstklen/infinite-gratitude": [
+      "sickn33/antigravity-awesome-skills"
+    ],
+    "zebbern/claude-code-guide": [
+      "sickn33/antigravity-awesome-skills"
+    ],
+    "uxuiprinciples/agent-skills": [
+      "sickn33/antigravity-awesome-skills"
+    ],
+    "sanjay3290/ai-skills": [
+      "sickn33/antigravity-awesome-skills"
+    ],
+    "christopherlhammer11-ai/tool-use-guardian": [
+      "sickn33/antigravity-awesome-skills"
+    ],
+    "seanzor/claude-speed-reader": [
+      "sickn33/antigravity-awesome-skills"
+    ],
+    "supabase/agent-skills": [
+      "sickn33/antigravity-awesome-skills"
+    ],
+    "vibeforge1111/vibeship-spawner-skills": [
+      "sickn33/antigravity-awesome-skills"
+    ],
+    "czlonkowski/n8n-skills": [
+      "sickn33/antigravity-awesome-skills"
+    ],
+    "zxkane/aws-skills": [
+      "sickn33/antigravity-awesome-skills"
+    ],
+    "flyingsquirrel0419/squirrel-skill": [
+      "sickn33/antigravity-awesome-skills"
+    ],
+    "microsoft/skills": [
+      "sickn33/antigravity-awesome-skills"
+    ],
+    "apps/copilot-swe-agent": [
+      "sickn33/antigravity-awesome-skills"
+    ],
+    "almogbaku/debug-skill": [
+      "sickn33/antigravity-awesome-skills"
+    ],
+    "xquik-dev/x-twitter-scraper": [
+      "sickn33/antigravity-awesome-skills"
+    ],
+    "shadowpr0/security-bluebook-builder": [
+      "sickn33/antigravity-awesome-skills"
+    ],
+    "shadowpr0/beautiful_prose": [
+      "sickn33/antigravity-awesome-skills"
+    ],
+    "k-dense-ai/claude-scientific-skills": [
+      "aiming-lab/autoresearchclaw",
+      "sickn33/antigravity-awesome-skills"
+    ],
+    "scarletkc/vexor": [
+      "sickn33/antigravity-awesome-skills"
+    ],
+    "dimillian/skills": [
+      "sickn33/antigravity-awesome-skills"
+    ],
+    "vudovn/antigravity-kit": [
+      "sickn33/antigravity-awesome-skills"
+    ],
+    "chriswiles/claude-code-showcase": [
+      "sickn33/antigravity-awesome-skills"
+    ],
+    "ssojet/skills": [
+      "sickn33/antigravity-awesome-skills"
+    ],
+    "lewiswigmore/agent-skills": [
+      "sickn33/antigravity-awesome-skills"
+    ],
+    "openai/skills": [
+      "sickn33/antigravity-awesome-skills"
+    ],
+    "minimax-ai/cli": [
+      "sickn33/antigravity-awesome-skills"
+    ],
+    "expo/skills": [
+      "sickn33/antigravity-awesome-skills"
+    ],
+    "webzler/agentmemory": [
+      "sickn33/antigravity-awesome-skills"
+    ],
+    "tsilverberg/webapp-uat": [
+      "sickn33/antigravity-awesome-skills"
+    ],
+    "vercel-labs/agent-skills": [
+      "leonxlnx/taste-skill",
+      "sickn33/antigravity-awesome-skills",
+      "vercel-labs/skills"
+    ],
+    "rmyndharis/antigravity-skills": [
+      "sickn33/antigravity-awesome-skills"
+    ],
+    "mrprewsh/seo-aeo-engine": [
+      "sickn33/antigravity-awesome-skills"
+    ],
+    "wittlesus/cursorrules-pro": [
+      "sickn33/antigravity-awesome-skills"
+    ],
+    "obra/superpowers": [
+      "sickn33/antigravity-awesome-skills",
+      "yeachan-heo/oh-my-claudecode"
+    ],
+    "huggingface/skills": [
+      "sickn33/antigravity-awesome-skills"
+    ],
+    "jthack/ffuf_claude_skill": [
+      "sickn33/antigravity-awesome-skills"
+    ],
+    "connerlambden/helium-mcp": [
+      "sickn33/antigravity-awesome-skills"
+    ],
+    "scopeblind/scopeblind-gateway": [
+      "sickn33/antigravity-awesome-skills"
+    ],
+    "rafsilva85/credit-optimizer-v5": [
+      "sickn33/antigravity-awesome-skills"
+    ],
+    "karanb192/awesome-claude-skills": [
+      "sickn33/antigravity-awesome-skills"
+    ],
+    "mohamedabdallah-14/unslop": [
+      "sickn33/antigravity-awesome-skills"
+    ],
+    "voidborne-d/humanize-chinese": [
+      "sickn33/antigravity-awesome-skills"
+    ],
+    "alirezarezvani/claude-skills": [
+      "sickn33/antigravity-awesome-skills"
+    ],
+    "openai/codex": [
+      "hugohe3/ppt-master",
+      "jcodesmore/ai-website-cloner-template",
+      "mksglu/context-mode",
+      "nexu-io/open-design",
+      "pbakaus/impeccable",
+      "sickn33/antigravity-awesome-skills",
+      "yeachan-heo/oh-my-claudecode",
+      "yeachan-heo/oh-my-codex"
+    ],
+    "robzolkos/skill-rails-upgrade": [
+      "sickn33/antigravity-awesome-skills"
+    ],
+    "warmskull/idea-darwin": [
+      "sickn33/antigravity-awesome-skills"
+    ],
+    "leonardomso/33-js-concepts": [
+      "sickn33/antigravity-awesome-skills"
+    ],
+    "agentphone-ai/skills": [
+      "sickn33/antigravity-awesome-skills"
+    ],
+    "pumanitro/global-chat": [
+      "sickn33/antigravity-awesome-skills"
+    ],
+    "christopherlhammer11-ai/recallmax": [
+      "sickn33/antigravity-awesome-skills"
+    ],
+    "fruitwyatt/puzzle-activity-planner": [
+      "sickn33/antigravity-awesome-skills"
+    ],
+    "elkidogz/technical-change-skill": [
+      "sickn33/antigravity-awesome-skills"
+    ],
+    "aomi-labs/skills": [
+      "sickn33/antigravity-awesome-skills"
+    ],
+    "slashworks-biz/idea-os": [
+      "sickn33/antigravity-awesome-skills"
+    ],
+    "buywhere/buywhere-mcp": [
+      "sickn33/antigravity-awesome-skills"
+    ],
+    "whatiskadudoing/fp-ts-skills": [
+      "sickn33/antigravity-awesome-skills"
+    ],
+    "agent-cards/skill": [
+      "sickn33/antigravity-awesome-skills"
+    ],
+    "travisvn/awesome-claude-skills": [
+      "sickn33/antigravity-awesome-skills"
+    ],
+    "f/awesome-chatgpt-prompts": [
+      "sickn33/antigravity-awesome-skills"
+    ],
+    "remotion-dev/skills": [
+      "sickn33/antigravity-awesome-skills"
+    ],
+    "fullstackcrew-alpha/privacy-mask": [
+      "sickn33/antigravity-awesome-skills"
+    ],
+    "muratcankoylan/agent-skills-for-context-engineering": [
+      "sickn33/antigravity-awesome-skills"
+    ],
+    "hyhmrright/logic-lens": [
+      "sickn33/antigravity-awesome-skills"
+    ],
+    "shmlkv/dna-claude-analysis": [
+      "sickn33/antigravity-awesome-skills"
+    ],
+    "apps/dependabot": [
+      "sickn33/antigravity-awesome-skills"
+    ],
+    "diet103/claude-code-infrastructure-showcase": [
+      "sickn33/antigravity-awesome-skills"
+    ],
+    "urrhb/agentflow": [
+      "sickn33/antigravity-awesome-skills"
+    ],
+    "zarazhangrui/frontend-slides": [
+      "sickn33/antigravity-awesome-skills"
+    ],
+    "umutbozdag/agent-skills-manager": [
+      "sickn33/antigravity-awesome-skills"
+    ],
+    "cyberzenithx/rich-elicitation-skill": [
+      "sickn33/antigravity-awesome-skills"
+    ],
+    "voidborne-d/lambda-lang": [
+      "sickn33/antigravity-awesome-skills"
+    ],
+    "nedcodes-ok/rule-porter": [
+      "sickn33/antigravity-awesome-skills"
+    ],
+    "neondatabase/agent-skills": [
+      "sickn33/antigravity-awesome-skills"
+    ],
+    "milkomida77/guardian-agent-prompts": [
+      "sickn33/antigravity-awesome-skills"
+    ],
+    "codeshux/mockhunter": [
+      "sickn33/antigravity-awesome-skills"
+    ],
+    "coreyhaines31/marketingskills": [
+      "sickn33/antigravity-awesome-skills"
+    ],
+    "notmyself/claude-win11-speckit-update-skill": [
+      "sickn33/antigravity-awesome-skills"
+    ],
+    "jackjin1997/clawforge": [
+      "sickn33/antigravity-awesome-skills"
+    ],
+    "cloudai-x/threejs-skills": [
+      "sickn33/antigravity-awesome-skills"
+    ],
+    "anthropics/claude-cookbooks": [
+      "sickn33/antigravity-awesome-skills"
+    ],
+    "wrsmith108/linear-claude-skill": [
+      "sickn33/antigravity-awesome-skills"
+    ],
+    "commitshow/production-audit": [
+      "sickn33/antigravity-awesome-skills"
+    ],
+    "opencode-ai/opencode": [
+      "sickn33/antigravity-awesome-skills"
+    ],
+    "jonathimer/devmarketing-skills": [
+      "sickn33/antigravity-awesome-skills"
+    ],
+    "silverov/yandex-direct-skill": [
+      "sickn33/antigravity-awesome-skills"
+    ],
+    "huifer/wellally-health": [
+      "sickn33/antigravity-awesome-skills"
+    ],
+    "zhanghandong/makepad-skills": [
+      "sickn33/antigravity-awesome-skills"
+    ],
+    "metcalfsolutions/satori": [
+      "sickn33/antigravity-awesome-skills"
+    ],
+    "uberskillsdev/uberskills": [
+      "sickn33/antigravity-awesome-skills"
+    ],
+    "monte-carlo-data/mc-agent-toolkit": [
+      "sickn33/antigravity-awesome-skills"
+    ],
+    "amartelr/antigravity-workspace-manager": [
+      "sickn33/antigravity-awesome-skills"
+    ],
+    "kepano/obsidian-skills": [
+      "sickn33/antigravity-awesome-skills"
+    ],
+    "features/copilot": [
+      "hugohe3/ppt-master",
+      "jcodesmore/ai-website-cloner-template",
+      "nexu-io/open-design",
+      "sickn33/antigravity-awesome-skills",
+      "sipeed/picoclaw"
+    ],
+    "mojoauth/skills": [
+      "sickn33/antigravity-awesome-skills"
+    ],
+    "leonxlnx/taste-skill": [
+      "sickn33/antigravity-awesome-skills"
+    ],
+    "aptratcn/skill-audit": [
+      "sickn33/antigravity-awesome-skills"
+    ],
+    "wolfe-jam/faf-skills": [
+      "sickn33/antigravity-awesome-skills"
+    ],
+    "shpigford/skills": [
+      "sickn33/antigravity-awesome-skills"
+    ],
+    "frmoretto/clarity-gate": [
+      "sickn33/antigravity-awesome-skills"
+    ],
+    "google-gemini/gemini-skills": [
+      "sickn33/antigravity-awesome-skills"
+    ],
+    "skyvern-ai/skyvern": [
+      "sickn33/antigravity-awesome-skills"
+    ],
+    "apify/agent-skills": [
+      "sickn33/antigravity-awesome-skills"
+    ],
+    "bitjaru/styleseed": [
+      "sickn33/antigravity-awesome-skills"
+    ],
+    "kubestellar/console": [
+      "sickn33/antigravity-awesome-skills"
+    ],
+    "en/authentication": [
+      "addyosmani/agent-skills"
+    ],
+    "zhulinsen/alphaevo": [
+      "zhulinsen/daily_stock_analysis"
+    ],
+    "zhulinsen/alphasift": [
+      "zhulinsen/daily_stock_analysis"
+    ],
+    "repository/zhulinsen": [
+      "zhulinsen/daily_stock_analysis"
+    ],
+    "v1/widgets": [
+      "anionex/banana-slides",
+      "openhub-store/github-store",
+      "zhulinsen/daily_stock_analysis"
+    ],
+    "mistralai/mistral-vibe": [
+      "nexu-io/open-design"
+    ],
+    "opencoworkai/open-codesign": [
+      "nexu-io/open-design"
+    ],
+    "voltagent/awesome-design-md": [
+      "nexu-io/open-design"
+    ],
+    "lewislulu/html-ppt-skill": [
+      "nexu-io/open-design"
+    ],
+    "qwenlm/qwen-code": [
+      "nexu-io/open-design"
+    ],
+    "farion1231/cc-switch": [
+      "nexu-io/open-design"
+    ],
+    "bergside/awesome-design-skills": [
+      "nexu-io/open-design"
+    ],
+    "eqlabs/hermes": [
+      "nexu-io/open-design"
+    ],
+    "op7418/guizang-ppt-skill": [
+      "nexu-io/open-design"
+    ],
+    "alchaincyf/huashu-design": [
+      "alchaincyf/nuwa-skill",
+      "nexu-io/open-design"
+    ],
+    "youmind-openlab/awesome-seedance-2-prompts": [
+      "nexu-io/open-design"
+    ],
+    "youmind-openlab/awesome-gpt-image-prompts": [
+      "nexu-io/open-design"
+    ],
+    "heygen-com/hyperframes": [
+      "nexu-io/open-design"
+    ],
+    "voltagent/awesome-claude-design": [
+      "nexu-io/open-design"
+    ],
+    "lowlighter/metrics": [
+      "nexu-io/open-design"
+    ],
+    "blender/blender": [
+      "hkuds/cli-anything"
+    ],
+    "shaun0927/openchrome": [
+      "yeachan-heo/oh-my-claudecode"
+    ],
+    "psmux/psmux": [
+      "yeachan-heo/oh-my-claudecode"
+    ],
+    "jcwleo/random-network-distillation-pytorch": [
+      "yeachan-heo/oh-my-claudecode"
+    ],
+    "tmux/tmux": [
+      "2025emma/vibe-coding-cn",
+      "yeachan-heo/oh-my-claudecode"
+    ],
+    "anduinnn/hifini-auto-checkin": [
+      "yeachan-heo/oh-my-claudecode"
+    ],
+    "had0yun/gopeak-godot-mcp": [
+      "yeachan-heo/oh-my-claudecode"
+    ],
+    "junhoyeo/tokscale": [
+      "yeachan-heo/oh-my-claudecode"
+    ],
+    "code-yeongyu/oh-my-opencode": [
+      "yeachan-heo/oh-my-claudecode"
+    ],
+    "bowtiedswan/buildflow": [
+      "yeachan-heo/oh-my-claudecode"
+    ],
+    "znuff/consolas-powerline": [
+      "yeachan-heo/oh-my-claudecode"
+    ],
+    "ryanjoachim/claude-hud": [
+      "yeachan-heo/oh-my-claudecode"
+    ],
+    "alohays/awesome-visual-representation-learning-with-transformers": [
+      "yeachan-heo/oh-my-claudecode"
+    ],
+    "merozemory/ida-multi-mcp": [
+      "yeachan-heo/oh-my-claudecode"
+    ],
+    "emgeee/mean-tutorial": [
+      "yeachan-heo/oh-my-claudecode"
+    ],
+    "q00/ouroboros": [
+      "yeachan-heo/oh-my-claudecode"
+    ],
+    "marlocarlo/psmux": [
+      "yeachan-heo/oh-my-claudecode"
+    ],
+    "kepano/defuddle-cli": [
+      "kepano/obsidian-skills"
+    ],
+    "shareai-lab/learn-claude-code": [
+      "lbjlaq/antigravity-manager"
+    ],
+    "su-kaka/gcli2api": [
+      "lbjlaq/antigravity-manager"
+    ],
+    "wakeup-jin/practical-guide-to-context-engineering": [
+      "lbjlaq/antigravity-manager"
+    ],
+    "znlsl/antigravity2api": [
+      "lbjlaq/antigravity-manager"
+    ],
+    "zhongruichen/aistudio-gemini-proxy": [
+      "lbjlaq/antigravity-manager"
+    ],
+    "funny-vibes/agent-vibes": [
+      "lbjlaq/antigravity-manager"
+    ],
+    "badrisnarayanan/antigravity-claude-proxy": [
+      "lbjlaq/antigravity-manager"
+    ],
+    "router-for-me/cliproxyapi": [
+      "lbjlaq/antigravity-manager"
+    ],
+    "lbjlaq/antigravity-tools-ls": [
+      "lbjlaq/antigravity-manager"
+    ],
+    "hkuds/nanobot": [
+      "hkuds/deeptutor",
+      "sipeed/picoclaw"
+    ],
+    "termux/termux-app": [
+      "sipeed/picoclaw"
+    ],
+    "searxng/searxng": [
+      "sipeed/picoclaw"
+    ],
+    "onecli/onecli": [
+      "qwibitai/nanoclaw"
+    ],
+    "rohitg00/skillkit": [
+      "coreyhaines31/marketingskills"
+    ],
+    "vercel-labs/skills": [
+      "coreyhaines31/marketingskills",
+      "heygen-com/hyperframes"
+    ],
+    "alexsjones/llmserve": [
+      "alexsjones/llmfit"
+    ],
+    "pavelevich/llm-checker": [
+      "alexsjones/llmfit"
+    ],
+    "ggml-org/llama.cpp": [
+      "alexsjones/llmfit"
+    ],
+    "sympozium-ai/sympozium": [
+      "alexsjones/llmfit"
+    ],
+    "alexsjones/llama-panel": [
+      "alexsjones/llmfit"
+    ],
+    "zai-org/glm-v": [
+      "zai-org/open-autoglm"
+    ],
+    "senzhk/adbkeyboard": [
+      "zai-org/open-autoglm"
+    ],
+    "casey/just": [
+      "jamiepine/voicebox"
+    ],
+    "hkuds/lightrag": [
+      "hkuds/deeptutor"
+    ],
+    "run-llama/llama_index": [
+      "hkuds/deeptutor"
+    ],
+    "hkuds/ai-researcher": [
+      "hkuds/deeptutor"
+    ],
+    "wing900/manimcat": [
+      "hkuds/deeptutor"
+    ],
+    "hkuds/autoagent": [
+      "hkuds/deeptutor"
+    ],
+    "snap-research/locomo": [
+      "volcengine/openviking"
+    ],
+    "zaynjarvis/openclaw-eval": [
+      "volcengine/openviking"
+    ],
+    "anthropics/claude-code": [
+      "alishahryar1/free-claude-code",
+      "hkuds/openharness",
+      "jarrodwatts/claude-hud"
+    ],
+    "delgan/loguru": [
+      "alishahryar1/free-claude-code"
+    ],
+    "astral-sh/uv": [
+      "agentscope-ai/qwenpaw",
+      "alishahryar1/free-claude-code",
+      "anionex/banana-slides"
+    ],
+    "astral-sh/ruff": [
+      "alishahryar1/free-claude-code"
+    ],
+    "blader/humanizer": [
+      "leey21/awesome-ai-research-writing"
+    ],
+    "leey21/arxiv-translator": [
+      "leey21/awesome-ai-research-writing"
+    ],
+    "numman-ali/openskills": [
+      "leey21/awesome-ai-research-writing"
+    ],
+    "zechenzhangagi/ai-research-skills": [
+      "leey21/awesome-ai-research-writing"
+    ],
+    "wd041216-bit/openclaw-github-repo-commander": [
+      "othmanadi/planning-with-files"
+    ],
+    "en/copilot": [
+      "othmanadi/planning-with-files",
+      "vercel-labs/skills"
+    ],
+    "taoidle/plan-cascade": [
+      "othmanadi/planning-with-files"
+    ],
+    "st01cs/devis": [
+      "othmanadi/planning-with-files"
+    ],
+    "kmichels/multi-manus-planning": [
+      "othmanadi/planning-with-files"
+    ],
+    "oeftimie/vv-claude-harness": [
+      "othmanadi/planning-with-files"
+    ],
+    "cooragent/clarityfinance": [
+      "othmanadi/planning-with-files"
+    ],
+    "boxlite-ai/claudebox": [
+      "othmanadi/planning-with-files"
+    ],
+    "riothegreat-ai/agentfund-skill": [
+      "othmanadi/planning-with-files"
+    ],
+    "jessepwj/ccteam-creator": [
+      "othmanadi/planning-with-files"
+    ],
+    "lincolnwan/planning-with-files-copilot-agent": [
+      "othmanadi/planning-with-files"
+    ],
+    "lazyvim/lazyvim": [
+      "2025emma/vibe-coding-cn"
+    ],
+    "neovim/neovim": [
+      "2025emma/vibe-coding-cn"
+    ],
+    "enzed/vibe-coding": [
+      "2025emma/vibe-coding-cn"
+    ],
+    "tukuaiai/vibe-coding-cn": [
+      "2025emma/vibe-coding-cn"
+    ],
+    "x1xhlol/system-prompts-and-models-of-ai-tools": [
+      "2025emma/vibe-coding-cn"
+    ],
+    "yusufkaraaslan/skill_seekers": [
+      "2025emma/vibe-coding-cn"
+    ],
+    "nvidia-ai-blueprints/llm-router": [
+      "nvidia/nemoclaw"
+    ],
+    "nvidia/openshell": [
+      "nvidia/nemoclaw"
+    ],
+    "en/code-security": [
+      "nvidia/nemoclaw"
+    ],
+    "astro-han/opencli-plugin-juejin": [
+      "jackwener/opencli"
+    ],
+    "byteyue/opencli-plugin-hot-digest": [
+      "jackwener/opencli"
+    ],
+    "flobo3/opencli-plugin-vk": [
+      "jackwener/opencli"
+    ],
+    "byteyue/opencli-plugin-github-trending": [
+      "jackwener/opencli"
+    ],
+    "ckken/sub2api-mobile": [
+      "wei-shaw/sub2api"
+    ],
+    "touwaeriol/sub2apipay": [
+      "wei-shaw/sub2api"
+    ],
+    "yzfly/douyin-mcp-server": [
+      "panniantong/agent-reach"
+    ],
+    "jackwener/xiaohongshu-cli": [
+      "panniantong/agent-reach"
+    ],
+    "jnhflow21/social-post-extractor-mcp": [
+      "panniantong/agent-reach"
+    ],
+    "kurtmckee/feedparser": [
+      "panniantong/agent-reach"
+    ],
+    "nicobailon/mcporter": [
+      "panniantong/agent-reach"
+    ],
+    "daijro/camoufox": [
+      "panniantong/agent-reach"
+    ],
+    "littleben/openclaw-for-enterprise": [
+      "panniantong/agent-reach"
+    ],
+    "stickerdaniel/linkedin-mcp-server": [
+      "panniantong/agent-reach"
+    ],
+    "public-clis/twitter-cli": [
+      "panniantong/agent-reach"
+    ],
+    "jina-ai/reader": [
+      "panniantong/agent-reach"
+    ],
+    "public-clis/bilibili-cli": [
+      "panniantong/agent-reach"
+    ],
+    "public-clis/rdt-cli": [
+      "panniantong/agent-reach"
+    ],
+    "yt-dlp/yt-dlp": [
+      "panniantong/agent-reach"
+    ],
+    "alchaincyf/elon-musk-skill": [
+      "alchaincyf/nuwa-skill"
+    ],
+    "titanwings/colleague-skill": [
+      "alchaincyf/nuwa-skill"
+    ],
+    "alchaincyf/steve-jobs-skill": [
+      "alchaincyf/nuwa-skill"
+    ],
+    "alchaincyf/x-mentor-skill": [
+      "alchaincyf/nuwa-skill"
+    ],
+    "alchaincyf/munger-skill": [
+      "alchaincyf/nuwa-skill"
+    ],
+    "alchaincyf/paul-graham-skill": [
+      "alchaincyf/nuwa-skill"
+    ],
+    "alchaincyf/karpathy-skill": [
+      "alchaincyf/nuwa-skill",
+      "titanwings/colleague-skill"
+    ],
+    "alchaincyf/ilya-sutskever-skill": [
+      "alchaincyf/nuwa-skill"
+    ],
+    "alchaincyf/naval-skill": [
+      "alchaincyf/nuwa-skill"
+    ],
+    "alchaincyf/darwin-skill": [
+      "alchaincyf/nuwa-skill"
+    ],
+    "alchaincyf/trump-skill": [
+      "alchaincyf/nuwa-skill"
+    ],
+    "alchaincyf/zhang-yiming-skill": [
+      "alchaincyf/nuwa-skill"
+    ],
+    "alchaincyf/mrbeast-skill": [
+      "alchaincyf/nuwa-skill"
+    ],
+    "alchaincyf/zhangxuefeng-skill": [
+      "alchaincyf/nuwa-skill"
+    ],
+    "alchaincyf/taleb-skill": [
+      "alchaincyf/nuwa-skill"
+    ],
+    "alchaincyf/feynman-skill": [
+      "alchaincyf/nuwa-skill"
+    ],
+    "starccy/doubaoime-asr": [
+      "claude-code-best/claude-code"
+    ],
+    "sanyuan0704/sanyuan-skills": [
+      "claude-code-best/claude-code"
+    ],
+    "charmbracelet/crush": [
+      "vercel-labs/skills"
+    ],
+    "shareai-lab/kode": [
+      "vercel-labs/skills"
+    ],
+    "joeseesun/qiaomu-mondo-poster-design": [
+      "jimliu/baoyu-skills"
+    ],
+    "cocoon-ai/architecture-diagram-generator": [
+      "jimliu/baoyu-skills"
+    ],
+    "wshuyi/x-article-publisher-skill": [
+      "jimliu/baoyu-skills"
+    ],
+    "doocs/md": [
+      "jimliu/baoyu-skills"
+    ],
+    "thu-maic/maic-ui": [
+      "thu-maic/openmaic"
+    ],
+    "opendatalab/mineru": [
+      "thu-maic/openmaic"
+    ],
+    "openbmb/voxcpm": [
+      "thu-maic/openmaic"
+    ],
+    "vercel-labs/agent-browser": [
+      "manaflow-ai/cmux"
+    ],
+    "xai-org/grok-1": [
+      "xai-org/x-algorithm"
+    ],
+    "agentscope-ai/agentscope-runtime": [
+      "agentscope-ai/qwenpaw"
+    ],
+    "agentscope-ai/reme": [
+      "agentscope-ai/qwenpaw"
+    ],
+    "agentscope-ai/agentscope": [
+      "agentscope-ai/qwenpaw"
+    ],
+    "psf/black": [
+      "agentscope-ai/qwenpaw"
+    ],
+    "anthropics/claude-for-financial-services": [
+      "anthropics/financial-services"
+    ],
+    "aquaproj/aqua-registry": [
+      "pranshuparmar/witr"
+    ],
+    "brioche-dev/brioche-packages": [
+      "pranshuparmar/witr"
+    ],
+    "uniget-org/tools": [
+      "pranshuparmar/witr"
+    ],
+    "steveyegge/beads": [
+      "gastownhall/gastown"
+    ],
+    "you/repo": [
+      "gastownhall/gastown"
+    ],
+    "steveyegge/gastown": [
+      "gastownhall/gastown"
+    ],
+    "dolthub/dolt": [
+      "gastownhall/gastown"
+    ],
+    "shellmonster/banana-slides": [
+      "anionex/banana-slides"
+    ],
+    "repository/anionex": [
+      "anionex/banana-slides"
+    ],
+    "roocodeinc/roo-code": [
+      "jcodesmore/ai-website-cloner-template"
+    ],
+    "cline/cline": [
+      "jcodesmore/ai-website-cloner-template"
+    ],
+    "hesreallyhim/awesome-claude-code": [
+      "andymik90/aperant"
+    ],
+    "andymik90/auto-claude": [
+      "andymik90/aperant"
+    ],
+    "nodejs/node": [
+      "mksglu/context-mode"
+    ],
+    "modelcontextprotocol/servers": [
+      "mksglu/context-mode"
+    ],
+    "sst/opencode": [
+      "mksglu/context-mode"
+    ],
+    "facebook/react": [
+      "mksglu/context-mode"
+    ],
+    "wiselibs/better-sqlite3": [
+      "mksglu/context-mode"
+    ],
+    "garrytan/gbrain-evals": [
+      "garrytan/gbrain"
+    ],
+    "praveen-ks-2001/hermes-agent-template": [
+      "garrytan/gbrain"
+    ],
+    "chrysb/alphaclaw": [
+      "garrytan/gbrain"
+    ],
+    "garrytan/gstack": [
+      "garrytan/gbrain"
+    ],
+    "nousresearch/hermes-agent": [
+      "garrytan/gbrain"
+    ],
+    "firtoz/recordly-aur": [
+      "webadderallorg/recordly"
+    ],
+    "siddharthvaddem/openscreen": [
+      "webadderallorg/recordly"
+    ],
+    "tabler/tabler-icons": [
+      "hugohe3/ppt-master"
+    ],
+    "simple-icons/simple-icons": [
+      "hugohe3/ppt-master"
+    ],
+    "phosphor-icons/core": [
+      "hugohe3/ppt-master"
+    ],
+    "evolinkai/gpt-image-2-gen-skill": [
+      "evolinkai/awesome-gpt-image-2-api-and-prompts"
+    ],
+    "evolinkai/gpt-image-2-seedance2-workflow": [
+      "evolinkai/awesome-gpt-image-2-api-and-prompts"
+    ],
+    "lum1104/microservices-demo": [
+      "lum1104/understand-anything"
+    ],
+    "karpathy/442a6bf555914893e9891c11519de94f": [
+      "lum1104/understand-anything"
+    ],
+    "daniil-lyakhov/corridorkeyopenvino": [
+      "nikopueringer/corridorkey"
+    ],
+    "nikopueringer/corridorkey-mlx": [
+      "nikopueringer/corridorkey"
+    ],
+    "cvlab-kaist/videomama": [
+      "nikopueringer/corridorkey"
+    ],
+    "edenaion/ez-corridorkey": [
+      "nikopueringer/corridorkey"
+    ],
+    "aim-uofa/gvm": [
+      "nikopueringer/corridorkey"
+    ],
+    "iamr0s/dhizuku": [
+      "openhub-store/github-store"
+    ],
+    "en/repository": [
+      "openhub-store/github-store"
+    ],
+    "openhub-store/scoop-bucket": [
+      "openhub-store/github-store"
+    ],
+    "safouene1/support-palestine-banner": [
+      "openhub-store/github-store"
+    ],
+    "username/repo_name": [
+      "openhub-store/github-store"
+    ],
+    "bstnxbt/dflash-mlx": [
+      "jundot/omlx"
+    ],
+    "ml-explore/mlx": [
+      "jundot/omlx"
+    ],
+    "waybarrios/vllm-mlx": [
+      "jundot/omlx"
+    ],
+    "blaizzy/mlx-vlm": [
+      "jundot/omlx"
+    ],
+    "blaizzy/mlx-embeddings": [
+      "jundot/omlx"
+    ],
+    "ml-explore/mlx-lm": [
+      "jundot/omlx"
+    ],
+    "hkuds/clawteam": [
+      "hkuds/openharness"
+    ],
+    "pgvector/pgvector": [
+      "nearai/ironclaw"
+    ],
+    "saturndec/waoowaoo": [
+      "waooai/waoowaoo"
+    ],
+    "aiming-lab/metaclaw": [
+      "aiming-lab/autoresearchclaw"
+    ],
+    "karpathy/autoresearch": [
+      "aiming-lab/autoresearchclaw"
+    ],
+    "openclaw/acpx": [
+      "aiming-lab/autoresearchclaw"
+    ],
+    "a-evo-lab/a-evolve": [
+      "aiming-lab/autoresearchclaw"
+    ],
+    "sakanaai/ai-scientist": [
+      "aiming-lab/autoresearchclaw"
+    ],
+    "anomalyco/opencode": [
+      "aiming-lab/autoresearchclaw"
+    ],
+    "sindresorhus/awesome": [
+      "youmind-openlab/awesome-nano-banana-pro-prompts"
+    ],
+    "youmind-openlab/awesome-gpt-image-2": [
+      "youmind-openlab/awesome-nano-banana-pro-prompts"
+    ],
+    "steipete/trimmy": [
+      "steipete/codexbar"
+    ],
+    "ryoppippi/ccusage": [
+      "steipete/codexbar"
+    ],
+    "finesssee/win-codexbar": [
+      "steipete/codexbar"
+    ]
+  },
+  "cites": {
+    "openclaw/openclaw": [
+      "apps/clawdinator",
+      "apps/github-actions",
+      "apps/google-labs-jules",
+      "badlogic/pi-mono",
+      "openclaw/nix-openclaw"
+    ],
+    "ultraworkers/claw-code": [
+      "code-yeongyu/oh-my-openagent",
+      "yeachan-heo/clawhip",
+      "yeachan-heo/oh-my-claudecode",
+      "yeachan-heo/oh-my-codex"
+    ],
+    "affaan-m/everything-claude-code": [
+      "affaan-m/agentshield",
+      "agricidaniel/claude-ads",
+      "agricidaniel/claude-cybersecurity",
+      "agricidaniel/claude-seo",
+      "anthropics/skills",
+      "apps/skill-creator",
+      "marketplace/ecc-tools",
+      "saigonxiii/evc"
+    ],
+    "forrestchang/andrej-karpathy-skills": [
+      "multica-ai/multica"
+    ],
+    "garrytan/gstack": [
+      "browser-use/browser-harness-js",
+      "forrestchang/andrej-karpathy-skills",
+      "garrytan/gbrain",
+      "openclaw/openclaw",
+      "oven-sh/bun",
+      "you/app"
+    ],
+    "karpathy/autoresearch": [
+      "andyluo7/autoresearch",
+      "jsegov/autoresearch-win-rtx",
+      "karpathy/nanochat",
+      "miolini/autoresearch-macos",
+      "trevin-creator/autoresearch-mlx"
+    ],
+    "voltagent/awesome-design-md": [
+      "user-attachments/assets",
+      "voltagent/voltagent"
+    ],
+    "mattpocock/skills": [
+      "mattpocock/course-video-manager"
+    ],
+    "paperclipai/paperclip": [
+      "gsxdsm/awesome-paperclip",
+      "user-attachments/assets"
+    ],
+    "gsd-build/get-shit-done": [
+      "rokicool/gsd-opencode"
+    ],
+    "666ghj/mirofish": [
+      "camel-ai/oasis"
+    ],
+    "juliusbrussee/caveman": [
+      "juliusbrussee/cavekit",
+      "juliusbrussee/cavemem",
+      "juliusbrussee/revu-swift"
+    ],
+    "code-yeongyu/oh-my-openagent": [
+      "can1357/oh-my-pi"
+    ],
+    "voltagent/awesome-openclaw-skills": [
+      "clawdbot/skills",
+      "openclaw/skills",
+      "snyk/agent-scan",
+      "user-attachments/assets",
+      "voltagent/awesome-agent-skills",
+      "voltagent/awesome-ai-agent-papers",
+      "voltagent/awesome-claude-code-subagents",
+      "voltagent/awesome-clawdbot-skills",
+      "voltagent/awesome-codex-subagents",
+      "voltagent/voltagent"
+    ],
+    "chenglou/pretext": [
+      "chenglou/text-layout"
+    ],
+    "safishamsi/graphify": [
+      "googleworkspace/cli",
+      "karpathy/nanogpt"
+    ],
+    "santifer/career-ops": [
+      "google-gemini/gemini-cli",
+      "santifer/cv-santiago"
+    ],
+    "hkuds/nanobot": [
+      "openclaw/openclaw"
+    ],
+    "sickn33/antigravity-awesome-skills": [
+      "affaan-m/everything-claude-code",
+      "agent-cards/skill",
+      "agentphone-ai/skills",
+      "agricidaniel/claude-seo",
+      "alirezarezvani/claude-skills",
+      "almogbaku/debug-skill",
+      "amartelr/antigravity-workspace-manager",
+      "anthropics/claude-cookbooks",
+      "anthropics/skills",
+      "aomi-labs/skills",
+      "apify/agent-skills",
+      "apps/copilot-swe-agent",
+      "apps/dependabot",
+      "apps/github-actions",
+      "aptratcn/skill-audit",
+      "avdlee/swiftui-agent-skill",
+      "bitjaru/styleseed",
+      "buywhere/buywhere-mcp",
+      "christopherlhammer11-ai/recallmax",
+      "christopherlhammer11-ai/tool-use-guardian",
+      "chriswiles/claude-code-showcase",
+      "cloudai-x/threejs-skills",
+      "codeshux/mockhunter",
+      "commitshow/production-audit",
+      "connerlambden/helium-mcp",
+      "coreyhaines31/marketingskills",
+      "cyberzenithx/rich-elicitation-skill",
+      "czlonkowski/n8n-skills",
+      "diet103/claude-code-infrastructure-showcase",
+      "dimillian/skills",
+      "elkidogz/technical-change-skill",
+      "expo/skills",
+      "f/awesome-chatgpt-prompts",
+      "features/copilot",
+      "flyingsquirrel0419/squirrel-skill",
+      "frmoretto/clarity-gate",
+      "fruitwyatt/puzzle-activity-planner",
+      "fullstackcrew-alpha/privacy-mask",
+      "gokapso/agent-skills",
+      "google-gemini/gemini-cli",
+      "google-gemini/gemini-skills",
+      "guanyang/antigravity-skills",
+      "huggingface/skills",
+      "huifer/wellally-health",
+      "hyhmrright/brooks-lint",
+      "hyhmrright/logic-lens",
+      "ibelick/ui-skills",
+      "jackjin1997/clawforge",
+      "jonathimer/devmarketing-skills",
+      "jthack/ffuf_claude_skill",
+      "k-dense-ai/claude-scientific-skills",
+      "karanb192/awesome-claude-skills",
+      "kepano/obsidian-skills",
+      "kubestellar/console",
+      "lambdatest/agent-skills",
+      "leonardomso/33-js-concepts",
+      "leonxlnx/taste-skill",
+      "lewiswigmore/agent-skills",
+      "metcalfsolutions/satori",
+      "microsoft/skills",
+      "milkomida77/guardian-agent-prompts",
+      "minimax-ai/cli",
+      "mohamedabdallah-14/unslop",
+      "mojoauth/skills",
+      "monte-carlo-data/mc-agent-toolkit",
+      "mrprewsh/seo-aeo-engine",
+      "muratcankoylan/agent-skills-for-context-engineering",
+      "nedcodes-ok/rule-porter",
+      "neondatabase/agent-skills",
+      "notmyself/claude-win11-speckit-update-skill",
+      "obra/superpowers",
+      "openai/codex",
+      "openai/skills",
+      "openclaw/skills",
+      "opencode-ai/opencode",
+      "pumanitro/global-chat",
+      "rafsilva85/credit-optimizer-v5",
+      "remotion-dev/skills",
+      "rmyndharis/antigravity-skills",
+      "robzolkos/skill-rails-upgrade",
+      "sanjay3290/ai-skills",
+      "scarletkc/vexor",
+      "scopeblind/scopeblind-gateway",
+      "seanzor/claude-speed-reader",
+      "shadowpr0/beautiful_prose",
+      "shadowpr0/security-bluebook-builder",
+      "shmlkv/dna-claude-analysis",
+      "shpigford/skills",
+      "silverov/yandex-direct-skill",
+      "skyvern-ai/skyvern",
+      "slashworks-biz/idea-os",
+      "ssojet/skills",
+      "sstklen/infinite-gratitude",
+      "supabase/agent-skills",
+      "travisvn/awesome-claude-skills",
+      "tsilverberg/webapp-uat",
+      "uberskillsdev/uberskills",
+      "umutbozdag/agent-skills-manager",
+      "urrhb/agentflow",
+      "uxuiprinciples/agent-skills",
+      "vercel-labs/agent-skills",
+      "vibeforge1111/vibeship-spawner-skills",
+      "voidborne-d/humanize-chinese",
+      "voidborne-d/lambda-lang",
+      "voltagent/awesome-agent-skills",
+      "vudovn/antigravity-kit",
+      "warmskull/idea-darwin",
+      "webzler/agentmemory",
+      "whatiskadudoing/fp-ts-skills",
+      "wittlesus/cursorrules-pro",
+      "wolfe-jam/faf-skills",
+      "wrsmith108/linear-claude-skill",
+      "wrsmith108/varlock-claude-skill",
+      "xquik-dev/x-twitter-scraper",
+      "zarazhangrui/frontend-slides",
+      "zebbern/claude-code-guide",
+      "zhanghandong/makepad-skills",
+      "zxkane/aws-skills"
+    ],
+    "addyosmani/agent-skills": [
+      "en/authentication"
+    ],
+    "zhulinsen/daily_stock_analysis": [
+      "repository/zhulinsen",
+      "v1/widgets",
+      "zhulinsen/alphaevo",
+      "zhulinsen/alphasift"
+    ],
+    "nexu-io/open-design": [
+      "alchaincyf/huashu-design",
+      "badlogic/pi-mono",
+      "bergside/awesome-design-skills",
+      "eqlabs/hermes",
+      "farion1231/cc-switch",
+      "features/copilot",
+      "google-gemini/gemini-cli",
+      "heygen-com/hyperframes",
+      "lewislulu/html-ppt-skill",
+      "lowlighter/metrics",
+      "mistralai/mistral-vibe",
+      "multica-ai/multica",
+      "op7418/guizang-ppt-skill",
+      "openai/codex",
+      "opencoworkai/open-codesign",
+      "qwenlm/qwen-code",
+      "voltagent/awesome-claude-design",
+      "voltagent/awesome-design-md",
+      "youmind-openlab/awesome-gpt-image-prompts",
+      "youmind-openlab/awesome-seedance-2-prompts"
+    ],
+    "hkuds/cli-anything": [
+      "blender/blender"
+    ],
+    "yeachan-heo/oh-my-claudecode": [
+      "affaan-m/everything-claude-code",
+      "alohays/awesome-visual-representation-learning-with-transformers",
+      "anduinnn/hifini-auto-checkin",
+      "bowtiedswan/buildflow",
+      "code-yeongyu/oh-my-opencode",
+      "emgeee/mean-tutorial",
+      "google-gemini/gemini-cli",
+      "had0yun/gopeak-godot-mcp",
+      "jcwleo/random-network-distillation-pytorch",
+      "junhoyeo/tokscale",
+      "marlocarlo/psmux",
+      "merozemory/ida-multi-mcp",
+      "obra/superpowers",
+      "openai/codex",
+      "psmux/psmux",
+      "q00/ouroboros",
+      "ryanjoachim/claude-hud",
+      "shaun0927/openchrome",
+      "tmux/tmux",
+      "yeachan-heo/oh-my-codex",
+      "znuff/consolas-powerline"
+    ],
+    "hesamsheikh/awesome-openclaw-usecases": [
+      "openclaw/openclaw",
+      "user-attachments/assets"
+    ],
+    "kepano/obsidian-skills": [
+      "kepano/defuddle-cli"
+    ],
+    "lbjlaq/antigravity-manager": [
+      "badrisnarayanan/antigravity-claude-proxy",
+      "funny-vibes/agent-vibes",
+      "lbjlaq/antigravity-tools-ls",
+      "router-for-me/cliproxyapi",
+      "shareai-lab/learn-claude-code",
+      "su-kaka/gcli2api",
+      "wakeup-jin/practical-guide-to-context-engineering",
+      "zhongruichen/aistudio-gemini-proxy",
+      "znlsl/antigravity2api"
+    ],
+    "sipeed/picoclaw": [
+      "features/copilot",
+      "hkuds/nanobot",
+      "searxng/searxng",
+      "termux/termux-app"
+    ],
+    "qwibitai/nanoclaw": [
+      "onecli/onecli",
+      "openclaw/openclaw"
+    ],
+    "yeachan-heo/oh-my-codex": [
+      "openai/codex"
+    ],
+    "coreyhaines31/marketingskills": [
+      "rohitg00/skillkit",
+      "vercel-labs/skills"
+    ],
+    "pbakaus/impeccable": [
+      "anthropics/skills",
+      "google-gemini/gemini-cli",
+      "openai/codex"
+    ],
+    "alexsjones/llmfit": [
+      "alexsjones/llama-panel",
+      "alexsjones/llmserve",
+      "ggml-org/llama.cpp",
+      "openclaw/openclaw",
+      "pavelevich/llm-checker",
+      "sympozium-ai/sympozium"
+    ],
+    "zai-org/open-autoglm": [
+      "senzhk/adbkeyboard",
+      "zai-org/glm-v"
+    ],
+    "mvanhorn/last30days-skill": [
+      "google-gemini/gemini-cli"
+    ],
+    "jamiepine/voicebox": [
+      "casey/just"
+    ],
+    "hkuds/deeptutor": [
+      "hkuds/ai-researcher",
+      "hkuds/autoagent",
+      "hkuds/lightrag",
+      "hkuds/nanobot",
+      "run-llama/llama_index",
+      "wing900/manimcat"
+    ],
+    "volcengine/openviking": [
+      "snap-research/locomo",
+      "zaynjarvis/openclaw-eval"
+    ],
+    "alishahryar1/free-claude-code": [
+      "anthropics/claude-code",
+      "astral-sh/ruff",
+      "astral-sh/uv",
+      "delgan/loguru"
+    ],
+    "leey21/awesome-ai-research-writing": [
+      "anthropics/skills",
+      "blader/humanizer",
+      "leey21/arxiv-translator",
+      "numman-ali/openskills",
+      "zechenzhangagi/ai-research-skills"
+    ],
+    "jarrodwatts/claude-hud": [
+      "anthropics/claude-code"
+    ],
+    "othmanadi/planning-with-files": [
+      "anthropics/skills",
+      "boxlite-ai/claudebox",
+      "cooragent/clarityfinance",
+      "en/copilot",
+      "jessepwj/ccteam-creator",
+      "kmichels/multi-manus-planning",
+      "lincolnwan/planning-with-files-copilot-agent",
+      "oeftimie/vv-claude-harness",
+      "riothegreat-ai/agentfund-skill",
+      "st01cs/devis",
+      "taoidle/plan-cascade",
+      "wd041216-bit/openclaw-github-repo-commander"
+    ],
+    "2025emma/vibe-coding-cn": [
+      "enzed/vibe-coding",
+      "lazyvim/lazyvim",
+      "neovim/neovim",
+      "tmux/tmux",
+      "tukuaiai/vibe-coding-cn",
+      "x1xhlol/system-prompts-and-models-of-ai-tools",
+      "yusufkaraaslan/skill_seekers"
+    ],
+    "nvidia/nemoclaw": [
+      "en/code-security",
+      "nvidia-ai-blueprints/llm-router",
+      "nvidia/openshell"
+    ],
+    "jackwener/opencli": [
+      "astro-han/opencli-plugin-juejin",
+      "byteyue/opencli-plugin-github-trending",
+      "byteyue/opencli-plugin-hot-digest",
+      "flobo3/opencli-plugin-vk"
+    ],
+    "wei-shaw/sub2api": [
+      "ckken/sub2api-mobile",
+      "touwaeriol/sub2apipay"
+    ],
+    "panniantong/agent-reach": [
+      "daijro/camoufox",
+      "jackwener/xiaohongshu-cli",
+      "jina-ai/reader",
+      "jnhflow21/social-post-extractor-mcp",
+      "kurtmckee/feedparser",
+      "littleben/openclaw-for-enterprise",
+      "nicobailon/mcporter",
+      "public-clis/bilibili-cli",
+      "public-clis/rdt-cli",
+      "public-clis/twitter-cli",
+      "stickerdaniel/linkedin-mcp-server",
+      "yt-dlp/yt-dlp",
+      "yzfly/douyin-mcp-server"
+    ],
+    "agentskills/agentskills": [
+      "anthropics/skills"
+    ],
+    "alchaincyf/nuwa-skill": [
+      "alchaincyf/darwin-skill",
+      "alchaincyf/elon-musk-skill",
+      "alchaincyf/feynman-skill",
+      "alchaincyf/huashu-design",
+      "alchaincyf/ilya-sutskever-skill",
+      "alchaincyf/karpathy-skill",
+      "alchaincyf/mrbeast-skill",
+      "alchaincyf/munger-skill",
+      "alchaincyf/naval-skill",
+      "alchaincyf/paul-graham-skill",
+      "alchaincyf/steve-jobs-skill",
+      "alchaincyf/taleb-skill",
+      "alchaincyf/trump-skill",
+      "alchaincyf/x-mentor-skill",
+      "alchaincyf/zhang-yiming-skill",
+      "alchaincyf/zhangxuefeng-skill",
+      "titanwings/colleague-skill"
+    ],
+    "claude-code-best/claude-code": [
+      "sanyuan0704/sanyuan-skills",
+      "starccy/doubaoime-asr"
+    ],
+    "vercel-labs/skills": [
+      "badlogic/pi-mono",
+      "charmbracelet/crush",
+      "en/copilot",
+      "shareai-lab/kode",
+      "vercel-labs/agent-skills"
+    ],
+    "titanwings/colleague-skill": [
+      "alchaincyf/karpathy-skill"
+    ],
+    "jimliu/baoyu-skills": [
+      "cocoon-ai/architecture-diagram-generator",
+      "doocs/md",
+      "joeseesun/qiaomu-mondo-poster-design",
+      "wshuyi/x-article-publisher-skill"
+    ],
+    "thu-maic/openmaic": [
+      "openbmb/voxcpm",
+      "openclaw/openclaw",
+      "opendatalab/mineru",
+      "thu-maic/maic-ui",
+      "user-attachments/assets"
+    ],
+    "zarazhangrui/frontend-slides": [
+      "user-attachments/assets"
+    ],
+    "manaflow-ai/cmux": [
+      "vercel-labs/agent-browser"
+    ],
+    "xai-org/x-algorithm": [
+      "xai-org/grok-1"
+    ],
+    "agentscope-ai/qwenpaw": [
+      "agentscope-ai/agentscope",
+      "agentscope-ai/agentscope-runtime",
+      "agentscope-ai/reme",
+      "astral-sh/uv",
+      "psf/black"
+    ],
+    "leonxlnx/taste-skill": [
+      "vercel-labs/agent-skills"
+    ],
+    "heygen-com/hyperframes": [
+      "vercel-labs/skills"
+    ],
+    "anthropics/financial-services": [
+      "anthropics/claude-for-financial-services"
+    ],
+    "muratcankoylan/agent-skills-for-context-engineering": [
+      "user-attachments/assets"
+    ],
+    "pranshuparmar/witr": [
+      "aquaproj/aqua-registry",
+      "brioche-dev/brioche-packages",
+      "uniget-org/tools",
+      "user-attachments/assets"
+    ],
+    "gastownhall/gastown": [
+      "dolthub/dolt",
+      "steveyegge/beads",
+      "steveyegge/gastown",
+      "you/repo"
+    ],
+    "different-ai/openwork": [
+      "user-attachments/assets"
+    ],
+    "anionex/banana-slides": [
+      "astral-sh/uv",
+      "repository/anionex",
+      "shellmonster/banana-slides",
+      "user-attachments/assets",
+      "v1/widgets"
+    ],
+    "jcodesmore/ai-website-cloner-template": [
+      "cline/cline",
+      "features/copilot",
+      "google-gemini/gemini-cli",
+      "openai/codex",
+      "roocodeinc/roo-code"
+    ],
+    "andymik90/aperant": [
+      "andymik90/auto-claude",
+      "hesreallyhim/awesome-claude-code"
+    ],
+    "mksglu/context-mode": [
+      "facebook/react",
+      "modelcontextprotocol/servers",
+      "nodejs/node",
+      "openai/codex",
+      "openclaw/openclaw",
+      "sst/opencode",
+      "wiselibs/better-sqlite3"
+    ],
+    "garrytan/gbrain": [
+      "chrysb/alphaclaw",
+      "garrytan/gbrain-evals",
+      "garrytan/gstack",
+      "nousresearch/hermes-agent",
+      "praveen-ks-2001/hermes-agent-template"
+    ],
+    "webadderallorg/recordly": [
+      "firtoz/recordly-aur",
+      "siddharthvaddem/openscreen",
+      "user-attachments/assets"
+    ],
+    "hugohe3/ppt-master": [
+      "features/copilot",
+      "openai/codex",
+      "phosphor-icons/core",
+      "simple-icons/simple-icons",
+      "tabler/tabler-icons"
+    ],
+    "evolinkai/awesome-gpt-image-2-api-and-prompts": [
+      "evolinkai/gpt-image-2-gen-skill",
+      "evolinkai/gpt-image-2-seedance2-workflow"
+    ],
+    "lum1104/understand-anything": [
+      "karpathy/442a6bf555914893e9891c11519de94f",
+      "lum1104/microservices-demo"
+    ],
+    "nikopueringer/corridorkey": [
+      "aim-uofa/gvm",
+      "cvlab-kaist/videomama",
+      "daniil-lyakhov/corridorkeyopenvino",
+      "edenaion/ez-corridorkey",
+      "nikopueringer/corridorkey-mlx",
+      "user-attachments/assets"
+    ],
+    "openhub-store/github-store": [
+      "en/repository",
+      "iamr0s/dhizuku",
+      "openhub-store/scoop-bucket",
+      "safouene1/support-palestine-banner",
+      "username/repo_name",
+      "v1/widgets"
+    ],
+    "jundot/omlx": [
+      "blaizzy/mlx-embeddings",
+      "blaizzy/mlx-vlm",
+      "bstnxbt/dflash-mlx",
+      "ml-explore/mlx",
+      "ml-explore/mlx-lm",
+      "waybarrios/vllm-mlx"
+    ],
+    "hkuds/openharness": [
+      "anthropics/claude-code",
+      "anthropics/skills",
+      "hkuds/clawteam"
+    ],
+    "nearai/ironclaw": [
+      "openclaw/openclaw",
+      "pgvector/pgvector"
+    ],
+    "waooai/waoowaoo": [
+      "saturndec/waoowaoo",
+      "user-attachments/assets"
+    ],
+    "aiming-lab/autoresearchclaw": [
+      "a-evo-lab/a-evolve",
+      "aiming-lab/metaclaw",
+      "anomalyco/opencode",
+      "k-dense-ai/claude-scientific-skills",
+      "karpathy/autoresearch",
+      "openclaw/acpx",
+      "openclaw/openclaw",
+      "sakanaai/ai-scientist"
+    ],
+    "youmind-openlab/awesome-nano-banana-pro-prompts": [
+      "sindresorhus/awesome",
+      "youmind-openlab/awesome-gpt-image-2"
+    ],
+    "steipete/codexbar": [
+      "finesssee/win-codexbar",
+      "ryoppippi/ccusage",
+      "steipete/trimmy"
+    ]
+  }
+}

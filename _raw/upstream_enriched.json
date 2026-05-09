@@ -1,0 +1,168 @@
+[
+  {
+    "repo": "openclaw/openclaw",
+    "stars": 369919,
+    "created": "2025-11-24",
+    "pushed": "2026-05-09",
+    "age_days": 165,
+    "stars_per_day": 2241.9,
+    "desc": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. \ud83e\udd9e "
+  },
+  {
+    "repo": "NousResearch/hermes-agent",
+    "stars": 139397,
+    "created": "2025-07-22",
+    "pushed": "2026-05-09",
+    "age_days": 290,
+    "stars_per_day": 480.7,
+    "desc": "The agent that grows with you"
+  },
+  {
+    "repo": "anthropics/skills",
+    "stars": 130565,
+    "created": "2025-09-22",
+    "pushed": "2026-05-09",
+    "age_days": 228,
+    "stars_per_day": 572.7,
+    "desc": "Public repository for Agent Skills"
+  },
+  {
+    "repo": "google-gemini/gemini-cli",
+    "stars": 103467,
+    "created": "2025-04-17",
+    "pushed": "2026-05-09",
+    "age_days": 386,
+    "stars_per_day": 268.0,
+    "desc": "An open-source AI agent that brings the power of Gemini directly into your terminal."
+  },
+  {
+    "repo": "VoltAgent/awesome-design-md",
+    "stars": 73665,
+    "created": "2026-03-31",
+    "pushed": "2026-05-08",
+    "age_days": 38,
+    "stars_per_day": 1938.6,
+    "desc": "A collection of DESIGN.md files inspired by popular brand design systems. Drop one into your project and let coding agents generate a matchi"
+  },
+  {
+    "repo": "karpathy/nanochat",
+    "stars": 53133,
+    "created": "2025-10-13",
+    "pushed": "2026-05-05",
+    "age_days": 207,
+    "stars_per_day": 256.7,
+    "desc": "The best ChatGPT that $100 can buy."
+  },
+  {
+    "repo": "multica-ai/multica",
+    "stars": 26280,
+    "created": "2026-01-13",
+    "pushed": "2026-05-09",
+    "age_days": 115,
+    "stars_per_day": 228.5,
+    "desc": "The open-source managed agents platform. Turn coding agents into real teammates \u2014 assign tasks, track progress, compound skills."
+  },
+  {
+    "repo": "OpenBMB/VoxCPM",
+    "stars": 17862,
+    "created": "2025-09-16",
+    "pushed": "2026-04-28",
+    "age_days": 234,
+    "stars_per_day": 76.3,
+    "desc": "VoxCPM2: Tokenizer-Free TTS for Multilingual Speech Generation, Creative Voice Design, and True-to-Life Cloning"
+  },
+  {
+    "repo": "heygen-com/hyperframes",
+    "stars": 16236,
+    "created": "2026-03-10",
+    "pushed": "2026-05-09",
+    "age_days": 60,
+    "stars_per_day": 270.6,
+    "desc": "Write HTML. Render video. Built for agents."
+  },
+  {
+    "repo": "alchaincyf/huashu-design",
+    "stars": 12706,
+    "created": "2026-04-19",
+    "pushed": "2026-05-04",
+    "age_days": 19,
+    "stars_per_day": 668.7,
+    "desc": "Huashu Design \u00b7 HTML-native design skill for Claude Code \u00b7 Claude Code \u91cc HTML \u539f\u751f\u7684\u8bbe\u8ba1 skill \u00b7 \u9ad8\u4fdd\u771f\u539f\u578b / \u5e7b\u706f\u7247 / \u52a8\u753b + 20 \u8bbe\u8ba1\u54f2\u5b66 + 5 \u7ef4\u8bc4\u5ba1 + MP4 \u5bfc\u51fa \u00b7 Ag"
+  },
+  {
+    "repo": "VoltAgent/voltagent",
+    "stars": 8705,
+    "created": "2025-04-16",
+    "pushed": "2026-04-28",
+    "age_days": 387,
+    "stars_per_day": 22.5,
+    "desc": "AI Agent Engineering Platform built on an Open Source TypeScript AI Agent Framework"
+  },
+  {
+    "repo": "op7418/guizang-ppt-skill",
+    "stars": 5917,
+    "created": "2026-04-23",
+    "pushed": "2026-04-28",
+    "age_days": 15,
+    "stars_per_day": 394.5,
+    "desc": "A Claude Code Skill that turns prompts into horizontal-swipe magazine-style HTML decks \u2014 10 layouts, 5 curated themes, WebGL hero background"
+  },
+  {
+    "repo": "OpenCoworkAI/open-codesign",
+    "stars": 5302,
+    "created": "2026-04-18",
+    "pushed": "2026-05-08",
+    "age_days": 20,
+    "stars_per_day": 265.1,
+    "desc": "Open-source Claude Design alternative. One-click import your Claude Code / Codex API key. Prompt \u2192 prototype / slides / PDF. Multi-model (Cl"
+  },
+  {
+    "repo": "JuliusBrussee/cavekit",
+    "stars": 862,
+    "created": "2026-03-14",
+    "pushed": "2026-04-20",
+    "age_days": 55,
+    "stars_per_day": 15.7,
+    "desc": "A Claude Code plugin that turns natural language into blueprints, blueprints into parallel build plans, and build plans into working softwar"
+  },
+  {
+    "repo": "sympozium-ai/sympozium",
+    "stars": 475,
+    "created": "2026-02-23",
+    "pushed": "2026-05-08",
+    "age_days": 74,
+    "stars_per_day": 6.4,
+    "desc": " The Coordination Layer for Multi-Agent AI"
+  },
+  {
+    "repo": "bergside/awesome-design-skills",
+    "stars": 426,
+    "created": "2026-03-09",
+    "pushed": "2026-05-06",
+    "age_days": 60,
+    "stars_per_day": 7.1,
+    "desc": "List of 67 awesome DESIGN.md and SKILL.md design skill files for agentic tools like Claude Design, Google Stitch, Codex, Cursor, and other A"
+  },
+  {
+    "repo": "JuliusBrussee/cavemem",
+    "stars": 325,
+    "created": "2026-04-18",
+    "pushed": "2026-05-07",
+    "age_days": 21,
+    "stars_per_day": 15.5,
+    "desc": "Cross-agent persistent memory for coding assistants. Stored compressed. Retrieved fast. Local by default."
+  },
+  {
+    "repo": "garrytan/gbrain-evals",
+    "stars": 99,
+    "created": "2026-04-22",
+    "pushed": "2026-05-07",
+    "age_days": 16,
+    "stars_per_day": 6.2,
+    "desc": ""
+  },
+  {
+    "repo": "anthropics/claude-skills",
+    "err": "HTTP Error 404: Not Found"
+  }
+]
