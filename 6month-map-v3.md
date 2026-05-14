@@ -1,5 +1,15 @@
 # GitHub AI 生态近 6 个月 Mapping
 
+## 研究范围与口径
+
+这份 mapping 看的是过去 6 个月新建、且达到 2000+ stars 的 GitHub AI repo,共 703 个仓库。时间窗口是 `created:2025-11-09..2026-05-09`;stars、forks、issues 等指标来自抓取时点,正文用近似值看量级和结构。
+
+分类方式是:先判断一个仓库最主要在做什么,再记录它明显覆盖的副方向。比如 `openclaw/openclaw` 主类是 agent harness,同时也带 skills 分发;`garrytan/gstack` 主类是 Claude Code skill/tool 包,同时也是 coding workflow;`MemPalace/mempalace` 主类是 agent memory,同时以 skill/hook 方式接入;`steipete/CodexBar` 主类是 usage/cost observability,同时也是 macOS menu bar utility。
+
+因此本文采用 multi-label 覆盖口径:每个仓库有 1 个主类和 0-2 个副类。一个 repo 只要主类或副类包含某个方向,就计入该方向;所以各方向覆盖率和覆盖 stars 不能相加成 100%。完整标签表和子门类解释见 §8。
+
+stars 先看作关注度指标,不直接代表质量、真实用户数或商业价值。本文会结合 `peak ★/day`、`fork/star`、`issue/star`、最近 push 和 license 等信号辅助判断。
+
 ## 核心判断
 
 这半年 GitHub AI 生态的主角正在从模型本身转向 **distribution**:把现有模型包装成可安装、可复制、可嵌入日常工作的工具。这里的 distribution 很具体:SKILL.md / CLAUDE.md / DESIGN.md 这类 markdown 交付物,agent harness / plugin / CLI,以及能直接进入 coding、research、design 工作流的配置和工具。
@@ -14,18 +24,7 @@ Markdown 正在变成 AI 软件的交付格式之一。SKILL.md / CLAUDE.md / DE
 
 ---
 
-## 1. 这份报告怎么读
-
-最短读法:这份报告看的是“过去 6 个月新建、且达到 2000+ stars 的 AI 仓库,主要和哪些宏观方向相关”。本文采用 multi-label 覆盖口径:一个仓库可以同时覆盖多个方向,比如 agent harness、skills/prompts、research app 或 observability。
-
-- **样本范围有限**:只看 6 个月内创建、抓取时点 2000+ stars 的仓库。
-- **stars 先看作关注度**:它说明一个 repo 被多少人看见和收藏,不能单独推出质量、用户规模或真实增长。正文中的 star 数统一用近似值,只看量级和结构,不解读个位数变化。
-- **为什么用 multi-label**:很多项目天然是复合形态。比如 `garrytan/gstack` 既是 Claude Code skill/tool 包,也是 coding workflow;`MemPalace/mempalace` 既是 agent memory,也以 skill/hook 方式接入;`steipete/CodexBar` 和 `jarrodwatts/claude-hud` 长得像菜单栏/statusline 小工具,核心价值又在 usage、cost、context observability。多标签能保留这些交叉特征。
-- **本文主口径是 multi-label / 宏观方向覆盖统计**:每个仓库有一个标签集合(主类 + 副类)。只要标签集合里包含 A 系标签,就计入 A 覆盖;包含 B 系标签,就计入 B 覆盖。一个 `A1+B1` 仓库会同时进入 A 和 B,所以各方向覆盖率相加通常不等于 100%,也可能大于 100%。除非特别注明,百分比的分母仍然是 703 个仓库;stars 也按覆盖关系重复计入。
-- **标签读法**:Top 20 和交叉表会直接写 `A1+B1` 这种组合。宏观方向和常见子标签先看 §2 的速查表,完整解释见 §8 标签说明。
-- **标签边界提示**:A1/A2、K1/E3 这类相邻标签仍可能有个案争议;本文关注整体结构,不把单个边界案例当成主要结论。
-
-### stars 衡量的是关注度,不是质量
+## 1. stars 衡量的是关注度,不是质量
 
 本文把 stars 当作注意力和传播结果,不把它直接等同于代码质量、真实用户数或商业价值。质量需要结合维护节奏、issue/PR 处理、contributors、测试、CI、release、许可证和真实使用反馈判断。本文主要使用 stars、forks、open issues、创建时间、最近 push 时间和 license;PR 合并情况、contributors 和 release 节奏不作为本轮统计口径。
 
